@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core
+END
+IoUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/IoUtil.java
+END
+RuntimeIoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/RuntimeIoException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/package.html
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/looters/!svn/ver/3092/Tech/Server/loginServer
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/looters/!svn/ver/227/Tech/Server/loginServer/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/looters/!svn/ver/229/Tech/Server/loginServer/.project
+END
+.fatjar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/looters/!svn/ver/228/Tech/Server/loginServer/.fatjar
+END

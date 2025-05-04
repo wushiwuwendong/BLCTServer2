@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/looters/!svn/ver/2940/Tech/Server/gameServer/src/com/bw/common
+END
+BuildingType.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/looters/!svn/ver/224/Tech/Server/gameServer/src/com/bw/common/BuildingType.java
+END
+OperateType.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/looters/!svn/ver/2940/Tech/Server/gameServer/src/com/bw/common/OperateType.java
+END
+GameChargeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/looters/!svn/ver/1840/Tech/Server/gameServer/src/com/bw/common/GameChargeType.java
+END
+ResourceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/looters/!svn/ver/2405/Tech/Server/gameServer/src/com/bw/common/ResourceType.java
+END
+AccelerateType.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/looters/!svn/ver/2310/Tech/Server/gameServer/src/com/bw/common/AccelerateType.java
+END
+ValidateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/looters/!svn/ver/572/Tech/Server/gameServer/src/com/bw/common/ValidateUtils.java
+END
+DateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/looters/!svn/ver/572/Tech/Server/gameServer/src/com/bw/common/DateUtils.java
+END

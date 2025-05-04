@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/exception
+END
+InitializeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/exception/InitializeException.java
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/exception/Service.java
+END
+OperationFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/exception/OperationFailedException.java
+END
+NestedRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/exception/NestedRuntimeException.java
+END
+ObjectExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/exception/ObjectExistsException.java
+END
+NestedCheckedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/exception/NestedCheckedException.java
+END

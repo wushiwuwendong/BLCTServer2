@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/looters/!svn/ver/2145/Tech/Server/updateServer/src/com/bw/receiverImpl
+END
+BwUserMapDataVOReceiverListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/receiverImpl/BwUserMapDataVOReceiverListener.java
+END
+BwMineCollectorAllVOReceiverListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/receiverImpl/BwMineCollectorAllVOReceiverListener.java
+END
+BwBattleVOReceiverListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/receiverImpl/BwBattleVOReceiverListener.java
+END
+BwUserCharacterVOReceiverListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/looters/!svn/ver/1725/Tech/Server/updateServer/src/com/bw/receiverImpl/BwUserCharacterVOReceiverListener.java
+END
+ReceiverUtilImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/looters/!svn/ver/2145/Tech/Server/updateServer/src/com/bw/receiverImpl/ReceiverUtilImpl.java
+END
+BwUserSpellVOReceiverListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/receiverImpl/BwUserSpellVOReceiverListener.java
+END
+BwUserVOReceiverListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/receiverImpl/BwUserVOReceiverListener.java
+END
+BwLogVOReceiveListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/looters/!svn/ver/2145/Tech/Server/updateServer/src/com/bw/receiverImpl/BwLogVOReceiveListener.java
+END
+BwMineCollectorVOReceiverListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/receiverImpl/BwMineCollectorVOReceiverListener.java
+END
+IReceiverUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/looters/!svn/ver/2145/Tech/Server/updateServer/src/com/bw/receiverImpl/IReceiverUtil.java
+END
+BwBarrackVOReceiverListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/1810/Tech/Server/updateServer/src/com/bw/receiverImpl/BwBarrackVOReceiverListener.java
+END
+BwUserBattleStatisticsVOReceiverListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/receiverImpl/BwUserBattleStatisticsVOReceiverListener.java
+END

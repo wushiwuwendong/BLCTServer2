@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/polling
+END
+AbstractPollingIoProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/polling/AbstractPollingIoProcessor.java
+END
+AbstractPollingIoAcceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/polling/AbstractPollingIoAcceptor.java
+END
+AbstractPollingConnectionlessIoAcceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/polling/AbstractPollingConnectionlessIoAcceptor.java
+END
+AbstractPollingIoConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/polling/AbstractPollingIoConnector.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/polling/package.html
+END

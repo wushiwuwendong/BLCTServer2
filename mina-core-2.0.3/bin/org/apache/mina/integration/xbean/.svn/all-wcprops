@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/xbean
+END
+StandardThreadPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/xbean/StandardThreadPool.java
+END
+MinaPropertyEditorRegistrar.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/xbean/MinaPropertyEditorRegistrar.java
+END
+SocketAddressFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/xbean/SocketAddressFactory.java
+END

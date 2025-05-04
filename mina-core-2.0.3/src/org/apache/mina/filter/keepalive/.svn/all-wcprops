@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/keepalive
+END
+KeepAliveMessageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/keepalive/KeepAliveMessageFactory.java
+END
+KeepAliveRequestTimeoutHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/keepalive/KeepAliveRequestTimeoutHandler.java
+END
+KeepAliveRequestTimeoutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/keepalive/KeepAliveRequestTimeoutException.java
+END
+KeepAliveFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/keepalive/KeepAliveFilter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/keepalive/package.html
+END

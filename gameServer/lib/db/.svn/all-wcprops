@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/looters/!svn/ver/220/Tech/Server/gameServer/lib/db
+END
+postgresql-8.4-701.jdbc4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/looters/!svn/ver/220/Tech/Server/gameServer/lib/db/postgresql-8.4-701.jdbc4.jar
+END
+mysql-connector-java-5.1.22-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/looters/!svn/ver/220/Tech/Server/gameServer/lib/db/mysql-connector-java-5.1.22-bin.jar
+END
+c3p0-0.9.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/looters/!svn/ver/220/Tech/Server/gameServer/lib/db/c3p0-0.9.1.2.jar
+END

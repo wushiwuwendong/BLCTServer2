@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>
+	<bean id="channelManager"
+		class="com.bw.application.manager.channel.ChannelManagerImpl"
+		singleton="true"   init-method="start" destroy-method="stop">
+		<!-- 心跳间隔（毫秒为单位）185000 -->
+		<property name="egisTime">
+			<value>185000</value>
+		</property>
+		
+     <property name="dbBaseInforDAOImpl"  ref="DBBaseInforDAOImpl"></property> 
+	</bean>
+	<bean id="userManager" class="com.bw.application.manager.user.UserManagerImpl">
+		<property name="bwUserCacheDAOImpl" ref="BwUserCacheDAOImpl"></property>
+		<property name="bwUserMapDataCacheDAOImpl" ref="BwUserMapDataCacheDAOImpl" />	
+		<property name="bwUserBattleStatisticsDaoImpl" ref="BwUserBattleStatisticsDaoImpl"></property>
+		<property name="bwMineCollectorCacheDAOImpl" ref="BwMineCollectorCacheDAOImpl" />	
+		<property name="bwPlantUserCacheDAOImpl" ref="BwPlantUserCacheDAOImpl" />
+		<property name="findUUIDClient" ref="FindUUIDClient"></property>	
+		<property name="bwMineCollectorAllCacheDAOImpl" ref="BwMineCollectorAllCacheDAOImpl" />
+			<property name="bwUserBankCacheDAOImpl" ref="BwUserBankCacheDAOImpl" />
+	</bean>
+</beans>

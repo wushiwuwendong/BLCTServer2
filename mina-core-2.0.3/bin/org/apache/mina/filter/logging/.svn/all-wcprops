@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/logging
+END
+LogLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/logging/LogLevel.java
+END
+LoggingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/logging/LoggingFilter.java
+END
+MdcInjectionFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/logging/MdcInjectionFilter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/logging/package.html
+END

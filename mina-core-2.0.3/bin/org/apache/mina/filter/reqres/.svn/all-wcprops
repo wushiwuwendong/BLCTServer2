@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/reqres
+END
+ResponseType.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/reqres/ResponseType.java
+END
+ResponseInspector.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/reqres/ResponseInspector.java
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/reqres/Request.java
+END
+RequestResponseFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/reqres/RequestResponseFilter.java
+END
+ResponseInspectorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/reqres/ResponseInspectorFactory.java
+END
+RequestTimeoutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/reqres/RequestTimeoutException.java
+END
+Response.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/reqres/Response.java
+END

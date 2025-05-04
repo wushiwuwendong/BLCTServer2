@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN"
+	"http://www.springframework.org/dtd/spring-beans.dtd">
+<beans>
+	<!-- 用户模块 ACTION -->
+	<bean name="userLoginAction" class="com.bw.application.action.UserLoginAction">
+	<property name="channelManager" ref="channelManager"></property>
+	<property name="appConfig" ref="appConfig"></property>
+	<property name="userManager" ref="userManager"></property>	
+	<property name="commonCacheDAOImpl" ref="CommonCacheDAOImpl"></property>	
+	<property name="bwBlacklistCacheDAOImpl" ref="BwBlacklistCacheDAOImpl"></property>	
+	
+	</bean>
+	<bean name="registerChannelAction" class="com.bw.application.action.RegisterChannelAction">
+	<property name="channelManager" ref="channelManager"></property>
+	</bean>
+	<bean name="AreaListAction" class="com.bw.application.action.AreaListAction">
+	<property name="channelManager" ref="channelManager"></property>
+	</bean>	
+	
+	<bean name="FindUUIDClient" class="com.bw.application.client.FindUUIDClient" init-method="start">
+			<!-- 发送缓冲区最大字节数 -->
+		<property name="sendBufferSize">
+			<value>1024</value>
+		</property>
+		<!-- 登录服务器端口 -->
+		<property name="port">
+			<value>7777</value>
+		</property>
+		<!-- 登录服务器地址  多个IP地址用分号隔开-->
+		<property name="address">
+			<value>192.168.0.66</value>
+		</property>
+		<!-- 建立连接时间（毫秒为单位） -->
+		<property name="timeout">
+			<value>3000</value>
+		</property>
+		<property name="protocolCodecFactory" ref="protocolCodecFactory" />
+		<property name="defaultMinaClientIoHandler" ref="DefaultMinaClientIoHandler" />
+		<property name="appConfig"><ref bean="appConfig" /></property>
+	</bean>
+	<bean id="DefaultMinaClientIoHandler" class="com.bw.application.client.DefaultMinaClientIoHandler">
+	<property name="userManagerImpl" ref="userManager"></property>
+	</bean>
+</beans>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

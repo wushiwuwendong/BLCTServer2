@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/handlers/http/basic
+END
+HttpBasicAuthLogicHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/handlers/http/basic/HttpBasicAuthLogicHandler.java
+END
+HttpNoAuthLogicHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/handlers/http/basic/HttpNoAuthLogicHandler.java
+END

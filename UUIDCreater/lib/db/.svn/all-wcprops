@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/looters/!svn/ver/2930/Tech/Server/UUIDCreater/lib/db
+END
+postgresql-8.4-701.jdbc4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/looters/!svn/ver/2930/Tech/Server/UUIDCreater/lib/db/postgresql-8.4-701.jdbc4.jar
+END
+mysql-connector-java-5.1.22-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/looters/!svn/ver/2930/Tech/Server/UUIDCreater/lib/db/mysql-connector-java-5.1.22-bin.jar
+END
+c3p0-0.9.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/looters/!svn/ver/2930/Tech/Server/UUIDCreater/lib/db/c3p0-0.9.1.2.jar
+END

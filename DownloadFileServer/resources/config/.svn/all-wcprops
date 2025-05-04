@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/looters/!svn/ver/2928/Tech/Server/DownloadFileServer/resources/config
+END
+jdbc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/looters/!svn/ver/2064/Tech/Server/DownloadFileServer/resources/config/jdbc.properties
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/resources/config/log4j.xml
+END

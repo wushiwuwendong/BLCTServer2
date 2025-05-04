@@ -1,0 +1,9 @@
+<message>
+	<!-- 资源下载模块 -->
+	<entry id="2801" messageName="IoFileRequest" />
+	<entry id="42801" messageName="IoFileResponse" />
+
+	<!-- 资源下载模块 -->
+	<entry id="2602" messageName="ImageUploadRequest" />
+	<entry id="42602" messageName="ImageUploadResponse" />
+</message>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/textline
+END
+TextLineCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/textline/TextLineCodecFactory.java
+END
+TextLineDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/textline/TextLineDecoder.java
+END
+LineDelimiter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/textline/LineDelimiter.java
+END
+TextLineEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/textline/TextLineEncoder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/textline/package.html
+END

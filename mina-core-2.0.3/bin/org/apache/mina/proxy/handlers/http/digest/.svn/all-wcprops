@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/handlers/http/digest
+END
+DigestUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/handlers/http/digest/DigestUtilities.java
+END
+HttpDigestAuthLogicHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/handlers/http/digest/HttpDigestAuthLogicHandler.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/looters/!svn/ver/232/Tech/Server/loginServer/jar/resources/config
+END
+jdbc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/looters/!svn/ver/232/Tech/Server/loginServer/jar/resources/config/jdbc.properties
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/looters/!svn/ver/232/Tech/Server/loginServer/jar/resources/config/log4j.xml
+END

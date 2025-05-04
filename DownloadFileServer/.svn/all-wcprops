@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/looters/!svn/ver/2928/Tech/Server/DownloadFileServer
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/.project
+END
+.fatjar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/.fatjar
+END
+run.bat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/run.bat
+END

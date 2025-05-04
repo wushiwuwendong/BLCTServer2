@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/looters/!svn/ver/3006/Tech/Server/gameServer
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/looters/!svn/ver/2215/Tech/Server/gameServer/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/looters/!svn/ver/216/Tech/Server/gameServer/.project
+END
+spring.schemas
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/looters/!svn/ver/217/Tech/Server/gameServer/spring.schemas
+END
+.fatjar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/looters/!svn/ver/226/Tech/Server/gameServer/.fatjar
+END

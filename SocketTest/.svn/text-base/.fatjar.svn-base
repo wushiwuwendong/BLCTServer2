@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Oct 29 15:47:19 CST 2012
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=SocketTest_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.commonSocket.active.Server
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

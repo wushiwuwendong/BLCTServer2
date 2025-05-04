@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/looters/!svn/ver/2145/Tech/Server/updateServer/src/com/bw/service
+END
+BwBarrackVOWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/looters/!svn/ver/1810/Tech/Server/updateServer/src/com/bw/service/BwBarrackVOWriter.java
+END
+BwUserBattleStatisticsVOWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/service/BwUserBattleStatisticsVOWriter.java
+END
+BwUserMapDataVOWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/service/BwUserMapDataVOWriter.java
+END
+BwMineCollectorAllVOWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/service/BwMineCollectorAllVOWriter.java
+END
+BwBattleVOWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/service/BwBattleVOWriter.java
+END
+BwUserCharacterVOWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/service/BwUserCharacterVOWriter.java
+END
+BwUserSpellVOWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/service/BwUserSpellVOWriter.java
+END
+BwUserVOWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/service/BwUserVOWriter.java
+END
+BwMineCollectorVOWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/service/BwMineCollectorVOWriter.java
+END
+BwLogVOWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/looters/!svn/ver/2145/Tech/Server/updateServer/src/com/bw/service/BwLogVOWriter.java
+END

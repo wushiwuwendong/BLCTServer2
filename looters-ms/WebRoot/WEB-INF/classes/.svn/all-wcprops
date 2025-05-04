@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/looters/!svn/ver/2910/Tech/Server/looters-ms/src
+END
+config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/looters/!svn/ver/2471/Tech/Server/looters-ms/src/config.properties
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/looters/!svn/ver/1670/Tech/Server/looters-ms/src/log4j.xml
+END
+logback-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/looters/!svn/ver/1670/Tech/Server/looters-ms/src/logback-test.xml
+END

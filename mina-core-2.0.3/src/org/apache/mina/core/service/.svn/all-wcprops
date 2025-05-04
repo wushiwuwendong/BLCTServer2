@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/service
+END
+DefaultTransportMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/service/DefaultTransportMetadata.java
+END
+IoServiceStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/service/IoServiceStatistics.java
+END
+IoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/service/IoHandler.java
+END
+IoHandlerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/service/IoHandlerAdapter.java
+END
+AbstractIoConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/service/AbstractIoConnector.java
+END
+IoProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/service/IoProcessor.java
+END
+SimpleIoProcessorPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/service/SimpleIoProcessorPool.java
+END
+AbstractIoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/service/AbstractIoService.java
+END
+AbstractIoAcceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/service/AbstractIoAcceptor.java
+END
+IoConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/service/IoConnector.java
+END
+IoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/service/IoService.java
+END
+IoAcceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/service/IoAcceptor.java
+END
+IoServiceListenerSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/service/IoServiceListenerSupport.java
+END
+TransportMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/service/TransportMetadata.java
+END
+IoServiceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/service/IoServiceListener.java
+END

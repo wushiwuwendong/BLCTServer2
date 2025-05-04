@@ -1,0 +1,12 @@
+#全局应用编号
+current.appid=1001
+#是否可创建角色（表示当前服务器是否为锁定状态） 0-可创建 1-不可创建
+server.status.createRoleAble=0
+#服务器最大在线限制
+server.status.maxOnlineRole=2000
+#角色最大等级
+server.status.maxRoleLevel=85
+#版本
+server.status.version=1.0
+#更新地址
+server.status.updateAddress=192.168.1.100:8000

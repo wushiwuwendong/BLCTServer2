@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/looters/!svn/ver/2891/Tech/Server/SocketTest/src
+END
+config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/config.properties
+END
+config_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/config_zh_CN.properties
+END
+action.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/action.xml
+END
+command.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/command.xml
+END

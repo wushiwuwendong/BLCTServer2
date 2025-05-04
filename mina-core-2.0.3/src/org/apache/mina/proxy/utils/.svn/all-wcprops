@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/utils
+END
+ByteUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/utils/ByteUtilities.java
+END
+MD4Provider.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/utils/MD4Provider.java
+END
+StringUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/utils/StringUtilities.java
+END
+MD4.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/utils/MD4.java
+END
+IoBufferDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/utils/IoBufferDecoder.java
+END

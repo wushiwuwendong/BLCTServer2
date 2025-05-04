@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans
+END
+NumberEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/NumberEditor.java
+END
+CollectionEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/CollectionEditor.java
+END
+SetEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/SetEditor.java
+END
+CharacterEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/CharacterEditor.java
+END
+PropertiesEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/PropertiesEditor.java
+END
+IntegerEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/IntegerEditor.java
+END
+LongEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/LongEditor.java
+END
+ShortEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/ShortEditor.java
+END
+URIEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/URIEditor.java
+END
+URLEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/URLEditor.java
+END
+ByteEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/ByteEditor.java
+END
+EnumEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/EnumEditor.java
+END
+InetAddressEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/InetAddressEditor.java
+END
+FloatEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/FloatEditor.java
+END
+ClassEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/ClassEditor.java
+END
+StringEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/StringEditor.java
+END
+VmPipeAddressEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/VmPipeAddressEditor.java
+END
+AbstractPropertyEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/AbstractPropertyEditor.java
+END
+DoubleEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/DoubleEditor.java
+END
+NullEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/NullEditor.java
+END
+ListEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/ListEditor.java
+END
+PropertyEditorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/PropertyEditorFactory.java
+END
+DateEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/DateEditor.java
+END
+MapEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/MapEditor.java
+END
+PatternEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/PatternEditor.java
+END
+InetSocketAddressEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/InetSocketAddressEditor.java
+END
+ArrayEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/ArrayEditor.java
+END
+FileEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/FileEditor.java
+END
+BooleanEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/beans/BooleanEditor.java
+END

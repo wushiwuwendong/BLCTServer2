@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/lib/log
+END
+slf4j-api-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/lib/log/slf4j-api-1.6.1.jar
+END
+commons-lang-2.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/lib/log/commons-lang-2.6.jar
+END
+slf4j-nop-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/lib/log/slf4j-nop-1.6.1.jar
+END
+log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/lib/log/log4j.jar
+END
+jcl-over-slf4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/lib/log/jcl-over-slf4j-1.6.1.jar
+END

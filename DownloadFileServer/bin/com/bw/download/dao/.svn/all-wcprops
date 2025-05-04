@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/bin/com/bw/download/dao
+END
+BaseSpringDao.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/bin/com/bw/download/dao/BaseSpringDao.class
+END
+FileUploadDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/bin/com/bw/download/dao/FileUploadDAO.class
+END

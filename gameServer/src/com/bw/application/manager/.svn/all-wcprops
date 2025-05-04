@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/looters/!svn/ver/2995/Tech/Server/gameServer/src/com/bw/application/manager
+END
+IBattleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/looters/!svn/ver/2143/Tech/Server/gameServer/src/com/bw/application/manager/IBattleManager.java
+END
+IUserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/looters/!svn/ver/2909/Tech/Server/gameServer/src/com/bw/application/manager/IUserManager.java
+END
+IPVPOrderManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/2995/Tech/Server/gameServer/src/com/bw/application/manager/IPVPOrderManager.java
+END
+IOffLineManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/looters/!svn/ver/661/Tech/Server/gameServer/src/com/bw/application/manager/IOffLineManager.java
+END

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN"
+	"http://www.springframework.org/dtd/spring-beans.dtd">
+<beans>
+	<!-- 用户模块 ACTION -->
+	<bean id="heartBeatAction" class="com.commonSocket.active.HeartBeatAction"  />
+	<bean id="downloadMapInforAction" class="com.bw.application.action.DownloadMapInforAction">
+	<property name="userManagerImpl" ref="UserManagerImpl"></property>
+	<property name="onLineManagerImpl" ref="onlineManage" />
+	<property name="appConfig" ref="appConfig"></property>
+	</bean>
+	<bean id="OperateSequenceAction" class="com.bw.application.action.OperateSequenceAction">
+	<property name="userManagerImpl" ref="UserManagerImpl"></property>
+	</bean>
+	<bean id="BattleDataCheckAction" class="com.bw.application.action.BattleDataCheckAction">
+	<property name="battleManagerImpl" ref="battleManagerImpl"></property>
+	</bean>	
+	<bean id="BattleMatchingAction" class="com.bw.application.action.BattleMatchingAction">
+	<property name="battleManagerImpl" ref="battleManagerImpl"></property>
+	</bean>	
+	<bean id="BattleStartAction" class="com.bw.application.action.BattleStartAction">
+	<property name="battleManagerImpl" ref="battleManagerImpl"></property>
+	</bean>	
+	<bean id="CancleBattleAction" class="com.bw.application.action.CancleBattleAction">
+	<property name="battleManagerImpl" ref="battleManagerImpl"></property>
+	</bean>	
+	<bean id="DownloadBattleInforAction" class="com.bw.application.action.DownloadBattleInforAction">
+	<property name="battleManagerImpl" ref="battleManagerImpl"></property>
+	</bean>	
+	<bean id="UploadBattleFlowAction" class="com.bw.application.action.UploadBattleFlowAction">
+	<property name="battleManagerImpl" ref="battleManagerImpl"></property>
+	</bean>		
+	<bean id="UploadBattleResultAction" class="com.bw.application.action.UploadBattleResultAction">
+	<property name="battleManagerImpl" ref="battleManagerImpl"></property>
+	</bean>
+	<bean id="UploadBattleResultPVEAction" class="com.bw.application.action.UploadBattleResultPVEAction">
+	<property name="battleManagerImpl" ref="battleManagerImpl"></property>
+	</bean>		
+	<bean id="CrateSoldiersAction" class="com.bw.application.action.CrateSoldiersAction">
+	<property name="userManagerImpl" ref="UserManagerImpl"></property>
+	</bean>
+	<bean id="UserRegisterAction" class="com.bw.application.action.UserRegisterAction">
+	<property name="userManagerImpl" ref="UserManagerImpl"></property>
+	</bean>
+	<bean id="RevengeBattleAction" class="com.bw.application.action.RevengeBattleAction">
+     <property name="battleManagerImpl" ref="battleManagerImpl"></property>
+	</bean>
+	<bean id="PVPGradeOrderAction" class="com.bw.application.action.PVPGradeOrderAction">
+     <property name="pVPOrderManagerImpl" ref="PVPOrderManagerImpl"></property>
+	</bean>	
+</beans>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

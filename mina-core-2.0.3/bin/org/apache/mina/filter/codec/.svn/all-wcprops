@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec
+END
+ProtocolEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/ProtocolEncoder.java
+END
+SynchronizedProtocolEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/SynchronizedProtocolEncoder.java
+END
+ProtocolEncoderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/ProtocolEncoderAdapter.java
+END
+ProtocolCodecSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/ProtocolCodecSession.java
+END
+ProtocolCodecFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/ProtocolCodecFilter.java
+END
+ProtocolDecoderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/ProtocolDecoderException.java
+END
+AbstractProtocolEncoderOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/AbstractProtocolEncoderOutput.java
+END
+ProtocolDecoderOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/ProtocolDecoderOutput.java
+END
+ProtocolCodecException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/ProtocolCodecException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/package.html
+END
+RecoverableProtocolDecoderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/RecoverableProtocolDecoderException.java
+END
+ProtocolEncoderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/ProtocolEncoderException.java
+END
+ProtocolEncoderOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/ProtocolEncoderOutput.java
+END
+CumulativeProtocolDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/CumulativeProtocolDecoder.java
+END
+ProtocolCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/ProtocolCodecFactory.java
+END
+ProtocolDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/ProtocolDecoder.java
+END
+SynchronizedProtocolDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/SynchronizedProtocolDecoder.java
+END
+ProtocolDecoderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/ProtocolDecoderAdapter.java
+END
+AbstractProtocolDecoderOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/AbstractProtocolDecoderOutput.java
+END

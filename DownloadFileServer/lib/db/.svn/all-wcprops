@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/lib/db
+END
+postgresql-8.4-701.jdbc4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/lib/db/postgresql-8.4-701.jdbc4.jar
+END
+c3p0-0.9.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/lib/db/c3p0-0.9.1.2.jar
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/ognl
+END
+IoServicePropertyAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/ognl/IoServicePropertyAccessor.java
+END
+IoSessionFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/ognl/IoSessionFinder.java
+END
+IoSessionPropertyAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/ognl/IoSessionPropertyAccessor.java
+END
+IoFilterPropertyAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/ognl/IoFilterPropertyAccessor.java
+END
+AbstractPropertyAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/ognl/AbstractPropertyAccessor.java
+END
+PropertyTypeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/ognl/PropertyTypeConverter.java
+END

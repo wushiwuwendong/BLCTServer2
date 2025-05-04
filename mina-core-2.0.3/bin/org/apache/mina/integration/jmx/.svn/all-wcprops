@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/jmx
+END
+IoFilterMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/jmx/IoFilterMBean.java
+END
+ObjectMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/jmx/ObjectMBean.java
+END
+IoServiceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/jmx/IoServiceMBean.java
+END
+IoSessionMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/jmx/IoSessionMBean.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/integration/jmx/package.html
+END

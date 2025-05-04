@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aslan-app>
+	<action-map>
+		<!-- 资源下载模块 -->
+		<action name="2801" bean="ioFileAction" />
+		<action name="2602" bean="imageUploadAction" />
+	</action-map>
+</aslan-app>

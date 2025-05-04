@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/looters/!svn/ver/1446/Tech/Server/loginServer/proto
+END
+RegisterChannel.proto
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/looters/!svn/ver/235/Tech/Server/loginServer/proto/RegisterChannel.proto
+END
+UserRegisterInfo.proto
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/looters/!svn/ver/1446/Tech/Server/loginServer/proto/UserRegisterInfo.proto
+END
+UserLogin.proto
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/looters/!svn/ver/1446/Tech/Server/loginServer/proto/UserLogin.proto
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/looters/!svn/ver/2995/Tech/Server/gameServer/src/com/bw/application/message
+END
+HeartBeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/looters/!svn/ver/224/Tech/Server/gameServer/src/com/bw/application/message/HeartBeat.java
+END
+UserRegisterInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/1449/Tech/Server/gameServer/src/com/bw/application/message/UserRegisterInfo.java
+END
+DownloadBattleInfor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/looters/!svn/ver/2181/Tech/Server/gameServer/src/com/bw/application/message/DownloadBattleInfor.java
+END
+DownloadMapInfor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/1913/Tech/Server/gameServer/src/com/bw/application/message/DownloadMapInfor.java
+END
+BattleDataCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/looters/!svn/ver/410/Tech/Server/gameServer/src/com/bw/application/message/BattleDataCheck.java
+END
+PVPGradeOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/looters/!svn/ver/2995/Tech/Server/gameServer/src/com/bw/application/message/PVPGradeOrder.java
+END
+CreateBattleRobot.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/looters/!svn/ver/2960/Tech/Server/gameServer/src/com/bw/application/message/CreateBattleRobot.java
+END
+UploadBattleFlow.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/2143/Tech/Server/gameServer/src/com/bw/application/message/UploadBattleFlow.java
+END
+RegisterChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/looters/!svn/ver/224/Tech/Server/gameServer/src/com/bw/application/message/RegisterChannel.java
+END
+UploadBattleResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/looters/!svn/ver/1913/Tech/Server/gameServer/src/com/bw/application/message/UploadBattleResult.java
+END
+CancleBattle.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/looters/!svn/ver/550/Tech/Server/gameServer/src/com/bw/application/message/CancleBattle.java
+END
+BattleMatching.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/looters/!svn/ver/2143/Tech/Server/gameServer/src/com/bw/application/message/BattleMatching.java
+END
+RevengeBattle.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/looters/!svn/ver/2143/Tech/Server/gameServer/src/com/bw/application/message/RevengeBattle.java
+END
+ProduceSoldierMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/2017/Tech/Server/gameServer/src/com/bw/application/message/ProduceSoldierMessage.java
+END
+OperateSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/1913/Tech/Server/gameServer/src/com/bw/application/message/OperateSequence.java
+END
+BattleStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/looters/!svn/ver/2143/Tech/Server/gameServer/src/com/bw/application/message/BattleStart.java
+END
+UploadBattleResultPVE.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/looters/!svn/ver/550/Tech/Server/gameServer/src/com/bw/application/message/UploadBattleResultPVE.java
+END

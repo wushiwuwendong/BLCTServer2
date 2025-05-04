@@ -1,0 +1,17 @@
+package message;
+option java_package = "com.bw.application.message";
+option java_outer_classname ="UUIDsSelfBuilder";
+message CreateUUIDRequest
+{
+optional string	serverNumber=1;
+optional string	macAddress=2;
+optional int32	area_id=3;
+}
+message CreateUUIDResponse
+{
+optional sint32	result=1;
+optional string	info=2;
+optional int64	uuid=3;
+optional string	macAddress=4;
+optional int32	area_id=5;
+}

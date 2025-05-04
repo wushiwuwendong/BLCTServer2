@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/looters/!svn/ver/2993/Tech/Server/gameCache/src/com/bw/dao/cachedao
+END
+BwUserBankLogCacheDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/looters/!svn/ver/1884/Tech/Server/gameCache/src/com/bw/dao/cachedao/BwUserBankLogCacheDAOImpl.java
+END
+BwPlantUserCacheDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/2832/Tech/Server/gameCache/src/com/bw/dao/cachedao/BwPlantUserCacheDAOImpl.java
+END
+BwBattleCharacterPositionCacheDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/looters/!svn/ver/768/Tech/Server/gameCache/src/com/bw/dao/cachedao/BwBattleCharacterPositionCacheDAOImpl.java
+END
+BwUserCacheDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/looters/!svn/ver/2993/Tech/Server/gameCache/src/com/bw/dao/cachedao/BwUserCacheDAOImpl.java
+END
+BwUserSpellCacheDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/1599/Tech/Server/gameCache/src/com/bw/dao/cachedao/BwUserSpellCacheDAOImpl.java
+END
+BwSpellCacheDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/looters/!svn/ver/1599/Tech/Server/gameCache/src/com/bw/dao/cachedao/BwSpellCacheDAOImpl.java
+END
+BwUserBattleStatisticsCacheDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/looters/!svn/ver/1295/Tech/Server/gameCache/src/com/bw/dao/cachedao/BwUserBattleStatisticsCacheDAOImpl.java
+END
+BwCanclePersionCacheDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/looters/!svn/ver/2401/Tech/Server/gameCache/src/com/bw/dao/cachedao/BwCanclePersionCacheDAOImpl.java
+END
+BwClansCharacterRequestCacheDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/looters/!svn/ver/768/Tech/Server/gameCache/src/com/bw/dao/cachedao/BwClansCharacterRequestCacheDAOImpl.java
+END
+BwMineCollectorAllCacheDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/1199/Tech/Server/gameCache/src/com/bw/dao/cachedao/BwMineCollectorAllCacheDAOImpl.java
+END
+BwClansMemberCacheDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/768/Tech/Server/gameCache/src/com/bw/dao/cachedao/BwClansMemberCacheDAOImpl.java
+END
+BwUserFriendsCacheDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/768/Tech/Server/gameCache/src/com/bw/dao/cachedao/BwUserFriendsCacheDAOImpl.java
+END
+BwUserCharacterCacheDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/looters/!svn/ver/2514/Tech/Server/gameCache/src/com/bw/dao/cachedao/BwUserCharacterCacheDAOImpl.java
+END
+BwMineCollectorCacheDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/looters/!svn/ver/1295/Tech/Server/gameCache/src/com/bw/dao/cachedao/BwMineCollectorCacheDAOImpl.java
+END
+CGUserCacheDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/looters/!svn/ver/199/Tech/Server/gameCache/src/com/bw/dao/cachedao/CGUserCacheDaoImpl.java
+END
+CommonCacheDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/looters/!svn/ver/2881/Tech/Server/gameCache/src/com/bw/dao/cachedao/CommonCacheDAOImpl.java
+END
+BwClansCacheDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/looters/!svn/ver/768/Tech/Server/gameCache/src/com/bw/dao/cachedao/BwClansCacheDAOImpl.java
+END
+CacheDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/looters/!svn/ver/2993/Tech/Server/gameCache/src/com/bw/dao/cachedao/CacheDao.java
+END
+BwBarrackCacheDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/looters/!svn/ver/2686/Tech/Server/gameCache/src/com/bw/dao/cachedao/BwBarrackCacheDAOImpl.java
+END
+BattleLineDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/looters/!svn/ver/1967/Tech/Server/gameCache/src/com/bw/dao/cachedao/BattleLineDAOImpl.java
+END
+BwUserMapDataCacheDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/looters/!svn/ver/1799/Tech/Server/gameCache/src/com/bw/dao/cachedao/BwUserMapDataCacheDAOImpl.java
+END
+BwBlacklistCacheDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/2401/Tech/Server/gameCache/src/com/bw/dao/cachedao/BwBlacklistCacheDAOImpl.java
+END
+BwUserBankCacheDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/looters/!svn/ver/2469/Tech/Server/gameCache/src/com/bw/dao/cachedao/BwUserBankCacheDAOImpl.java
+END
+CGUserCurrencyCacheDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/looters/!svn/ver/199/Tech/Server/gameCache/src/com/bw/dao/cachedao/CGUserCurrencyCacheDaoImpl.java
+END
+BwBattleCacheDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/looters/!svn/ver/2093/Tech/Server/gameCache/src/com/bw/dao/cachedao/BwBattleCacheDAOImpl.java
+END

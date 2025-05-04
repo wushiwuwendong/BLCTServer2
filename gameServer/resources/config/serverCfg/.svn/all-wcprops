@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/looters/!svn/ver/3005/Tech/Server/gameServer/resources/config/serverCfg
+END
+notice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/looters/!svn/ver/223/Tech/Server/gameServer/resources/config/serverCfg/notice.xml
+END
+p1-cache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/looters/!svn/ver/2454/Tech/Server/gameServer/resources/config/serverCfg/p1-cache.xml
+END
+mnet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/looters/!svn/ver/2878/Tech/Server/gameServer/resources/config/serverCfg/mnet.xml
+END
+p1-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/looters/!svn/ver/223/Tech/Server/gameServer/resources/config/serverCfg/p1-config.xml
+END
+filter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/looters/!svn/ver/2880/Tech/Server/gameServer/resources/config/serverCfg/filter.xml
+END
+server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/looters/!svn/ver/2159/Tech/Server/gameServer/resources/config/serverCfg/server.xml
+END
+p1-manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/looters/!svn/ver/3005/Tech/Server/gameServer/resources/config/serverCfg/p1-manager.xml
+END
+p1-action.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/looters/!svn/ver/3005/Tech/Server/gameServer/resources/config/serverCfg/p1-action.xml
+END
+jms_context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/looters/!svn/ver/2159/Tech/Server/gameServer/resources/config/serverCfg/jms_context.xml
+END
+p1-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/looters/!svn/ver/2159/Tech/Server/gameServer/resources/config/serverCfg/p1-service.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/looters/!svn/ver/208/Tech/Server/gamejms/resources
+END
+jdbc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/looters/!svn/ver/208/Tech/Server/gamejms/resources/jdbc.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/looters/!svn/ver/208/Tech/Server/gamejms/resources/applicationContext.xml
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/looters/!svn/ver/208/Tech/Server/gamejms/resources/log4j.xml
+END

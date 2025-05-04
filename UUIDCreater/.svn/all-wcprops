@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/looters/!svn/ver/2933/Tech/Server/UUIDCreater
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/looters/!svn/ver/2930/Tech/Server/UUIDCreater/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/looters/!svn/ver/2930/Tech/Server/UUIDCreater/.project
+END
+.fatjar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/looters/!svn/ver/2930/Tech/Server/UUIDCreater/.fatjar
+END
+UUIDCreater.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/looters/!svn/ver/2930/Tech/Server/UUIDCreater/UUIDCreater.jar
+END
+run.bat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/looters/!svn/ver/2930/Tech/Server/UUIDCreater/run.bat
+END

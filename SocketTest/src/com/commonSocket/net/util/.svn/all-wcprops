@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/util
+END
+AntiCrack.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/util/AntiCrack.java
+END
+ClonePojoAttUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/util/ClonePojoAttUtil.java
+END
+NodeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/util/NodeUtil.java
+END
+SequenceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/util/SequenceUtil.java
+END
+AntiException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/util/AntiException.java
+END
+PnpcAdler32.java.old
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/util/PnpcAdler32.java.old
+END
+Report.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/util/Report.java
+END
+ObjectClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/util/ObjectClass.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/util/FileUtil.java
+END
+PnpcAdler32.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/util/PnpcAdler32.java
+END
+StringArray2PojoUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/util/StringArray2PojoUtil.java
+END

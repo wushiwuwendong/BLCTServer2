@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/looters/!svn/ver/1573/Tech/Server/gameServer/protos
+END
+PraiseFriends.proto
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/looters/!svn/ver/222/Tech/Server/gameServer/protos/PraiseFriends.proto
+END
+ReplayMail.proto
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/looters/!svn/ver/222/Tech/Server/gameServer/protos/ReplayMail.proto
+END
+UserRegisterInfo.proto
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/looters/!svn/ver/222/Tech/Server/gameServer/protos/UserRegisterInfo.proto
+END
+AddFriend.proto
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/looters/!svn/ver/222/Tech/Server/gameServer/protos/AddFriend.proto
+END
+GetPostList.proto
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/looters/!svn/ver/222/Tech/Server/gameServer/protos/GetPostList.proto
+END
+GetFriendList.proto
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/looters/!svn/ver/222/Tech/Server/gameServer/protos/GetFriendList.proto
+END
+ImageUpload.proto
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/looters/!svn/ver/222/Tech/Server/gameServer/protos/ImageUpload.proto
+END
+OperateSequence.proto
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/looters/!svn/ver/222/Tech/Server/gameServer/protos/OperateSequence.proto
+END
+RefreshData.proto
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/looters/!svn/ver/222/Tech/Server/gameServer/protos/RefreshData.proto
+END
+VisitFriends.proto
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/looters/!svn/ver/222/Tech/Server/gameServer/protos/VisitFriends.proto
+END
+GetUserList.proto
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/looters/!svn/ver/222/Tech/Server/gameServer/protos/GetUserList.proto
+END
+InvbiteFriends.proto
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/looters/!svn/ver/222/Tech/Server/gameServer/protos/InvbiteFriends.proto
+END
+DelFriend.proto
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/looters/!svn/ver/222/Tech/Server/gameServer/protos/DelFriend.proto
+END

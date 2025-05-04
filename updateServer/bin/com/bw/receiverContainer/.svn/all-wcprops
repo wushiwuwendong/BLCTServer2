@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/looters/!svn/ver/2145/Tech/Server/updateServer/src/com/bw/receiverContainer
+END
+BwUserSpellVOContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/receiverContainer/BwUserSpellVOContainer.java
+END
+BwUserVOContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/receiverContainer/BwUserVOContainer.java
+END
+BwMineCollectorVOContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/receiverContainer/BwMineCollectorVOContainer.java
+END
+BwLogVOContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/2145/Tech/Server/updateServer/src/com/bw/receiverContainer/BwLogVOContainer.java
+END
+BwBarrackVOContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/looters/!svn/ver/1810/Tech/Server/updateServer/src/com/bw/receiverContainer/BwBarrackVOContainer.java
+END
+BwUserBattleStatisticsVOContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/receiverContainer/BwUserBattleStatisticsVOContainer.java
+END
+BwUserMapDataVOContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/receiverContainer/BwUserMapDataVOContainer.java
+END
+BwMineCollectorAllVOContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/receiverContainer/BwMineCollectorAllVOContainer.java
+END
+BwBattleVOContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/receiverContainer/BwBattleVOContainer.java
+END
+BwUserCharacterVOContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/looters/!svn/ver/1724/Tech/Server/updateServer/src/com/bw/receiverContainer/BwUserCharacterVOContainer.java
+END

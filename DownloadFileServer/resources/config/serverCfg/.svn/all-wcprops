@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/looters/!svn/ver/2928/Tech/Server/DownloadFileServer/resources/config/serverCfg
+END
+notice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/resources/config/serverCfg/notice.xml
+END
+mnet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/resources/config/serverCfg/mnet.xml
+END
+p1-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/resources/config/serverCfg/p1-config.xml
+END
+filter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/resources/config/serverCfg/filter.xml
+END
+server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/resources/config/serverCfg/server.xml
+END
+p1-manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/looters/!svn/ver/2928/Tech/Server/DownloadFileServer/resources/config/serverCfg/p1-manager.xml
+END
+p1-action.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/looters/!svn/ver/2928/Tech/Server/DownloadFileServer/resources/config/serverCfg/p1-action.xml
+END
+p1-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/resources/config/serverCfg/p1-service.xml
+END

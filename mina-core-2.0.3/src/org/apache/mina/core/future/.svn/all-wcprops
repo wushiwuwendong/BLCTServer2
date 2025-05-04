@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/future
+END
+CloseFuture.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/future/CloseFuture.java
+END
+IoFuture.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/future/IoFuture.java
+END
+ConnectFuture.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/future/ConnectFuture.java
+END
+CompositeIoFuture.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/future/CompositeIoFuture.java
+END
+DefaultCloseFuture.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/future/DefaultCloseFuture.java
+END
+WriteFuture.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/future/WriteFuture.java
+END
+ReadFuture.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/future/ReadFuture.java
+END
+DefaultIoFuture.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/future/DefaultIoFuture.java
+END
+IoFutureListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/future/IoFutureListener.java
+END
+DefaultConnectFuture.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/future/DefaultConnectFuture.java
+END
+DefaultWriteFuture.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/future/DefaultWriteFuture.java
+END
+DefaultReadFuture.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/core/future/DefaultReadFuture.java
+END

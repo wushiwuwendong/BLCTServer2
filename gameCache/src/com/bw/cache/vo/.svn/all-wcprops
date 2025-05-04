@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/looters/!svn/ver/2993/Tech/Server/gameCache/src/com/bw/cache/vo
+END
+BwBarrackVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/looters/!svn/ver/926/Tech/Server/gameCache/src/com/bw/cache/vo/BwBarrackVO.java
+END
+BwUserMapDataVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/looters/!svn/ver/2905/Tech/Server/gameCache/src/com/bw/cache/vo/BwUserMapDataVO.java
+END
+BwBlacklistVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/looters/!svn/ver/2342/Tech/Server/gameCache/src/com/bw/cache/vo/BwBlacklistVO.java
+END
+BwUserBankVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/looters/!svn/ver/1293/Tech/Server/gameCache/src/com/bw/cache/vo/BwUserBankVO.java
+END
+CGUserCurrencyVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/looters/!svn/ver/199/Tech/Server/gameCache/src/com/bw/cache/vo/CGUserCurrencyVO.java
+END
+BwBattleVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/looters/!svn/ver/2142/Tech/Server/gameCache/src/com/bw/cache/vo/BwBattleVO.java
+END
+PVPGradeOrderVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/looters/!svn/ver/2993/Tech/Server/gameCache/src/com/bw/cache/vo/PVPGradeOrderVO.java
+END
+BwUserBankLogVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/looters/!svn/ver/1883/Tech/Server/gameCache/src/com/bw/cache/vo/BwUserBankLogVO.java
+END
+BwPlantUserVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/looters/!svn/ver/1442/Tech/Server/gameCache/src/com/bw/cache/vo/BwPlantUserVO.java
+END
+BwBattleCharacterPositionVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/looters/!svn/ver/768/Tech/Server/gameCache/src/com/bw/cache/vo/BwBattleCharacterPositionVO.java
+END
+BwUserSpellVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/looters/!svn/ver/1195/Tech/Server/gameCache/src/com/bw/cache/vo/BwUserSpellVO.java
+END
+BwUserVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/looters/!svn/ver/2951/Tech/Server/gameCache/src/com/bw/cache/vo/BwUserVO.java
+END
+BwSpellVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/looters/!svn/ver/1301/Tech/Server/gameCache/src/com/bw/cache/vo/BwSpellVO.java
+END
+BwLogVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/looters/!svn/ver/2146/Tech/Server/gameCache/src/com/bw/cache/vo/BwLogVO.java
+END
+BwBattleCharacterUsedCountVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/662/Tech/Server/gameCache/src/com/bw/cache/vo/BwBattleCharacterUsedCountVO.java
+END
+BwBattleDestoryVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/looters/!svn/ver/553/Tech/Server/gameCache/src/com/bw/cache/vo/BwBattleDestoryVO.java
+END
+BwUserBattleStatisticsVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/looters/!svn/ver/768/Tech/Server/gameCache/src/com/bw/cache/vo/BwUserBattleStatisticsVO.java
+END
+BwClansCharacterRequestVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/looters/!svn/ver/768/Tech/Server/gameCache/src/com/bw/cache/vo/BwClansCharacterRequestVO.java
+END
+BwMineCollectorAllVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/looters/!svn/ver/1141/Tech/Server/gameCache/src/com/bw/cache/vo/BwMineCollectorAllVO.java
+END
+BwClansMemberVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/looters/!svn/ver/768/Tech/Server/gameCache/src/com/bw/cache/vo/BwClansMemberVO.java
+END
+BwUserFriendsVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/looters/!svn/ver/768/Tech/Server/gameCache/src/com/bw/cache/vo/BwUserFriendsVO.java
+END
+OfflineVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/looters/!svn/ver/413/Tech/Server/gameCache/src/com/bw/cache/vo/OfflineVO.java
+END
+BattleLineVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/looters/!svn/ver/1041/Tech/Server/gameCache/src/com/bw/cache/vo/BattleLineVO.java
+END
+BwUserCharacterVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/looters/!svn/ver/768/Tech/Server/gameCache/src/com/bw/cache/vo/BwUserCharacterVO.java
+END
+BwMineCollectorVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/looters/!svn/ver/1883/Tech/Server/gameCache/src/com/bw/cache/vo/BwMineCollectorVO.java
+END
+CGUserVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/looters/!svn/ver/199/Tech/Server/gameCache/src/com/bw/cache/vo/CGUserVO.java
+END
+BwClansVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/looters/!svn/ver/768/Tech/Server/gameCache/src/com/bw/cache/vo/BwClansVO.java
+END

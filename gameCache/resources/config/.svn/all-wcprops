@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/looters/!svn/ver/198/Tech/Server/gameCache/resources/config
+END
+redis.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/looters/!svn/ver/198/Tech/Server/gameCache/resources/config/redis.properties
+END
+jdbc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/looters/!svn/ver/198/Tech/Server/gameCache/resources/config/jdbc.properties
+END

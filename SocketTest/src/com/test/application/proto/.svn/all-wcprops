@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/test/application/proto
+END
+IMessage.proto
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/test/application/proto/IMessage.proto
+END
+msg.proto
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/test/application/proto/msg.proto
+END
+UserLogin.proto
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/test/application/proto/UserLogin.proto
+END

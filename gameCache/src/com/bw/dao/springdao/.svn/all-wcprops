@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/looters/!svn/ver/2993/Tech/Server/gameCache/src/com/bw/dao/springdao
+END
+BwClansDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/looters/!svn/ver/768/Tech/Server/gameCache/src/com/bw/dao/springdao/BwClansDaoImpl.java
+END
+BwGameChannleDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/looters/!svn/ver/2365/Tech/Server/gameCache/src/com/bw/dao/springdao/BwGameChannleDaoImpl.java
+END
+BwBarrackDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/looters/!svn/ver/2687/Tech/Server/gameCache/src/com/bw/dao/springdao/BwBarrackDaoImpl.java
+END
+BwUserMapDataDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/looters/!svn/ver/1799/Tech/Server/gameCache/src/com/bw/dao/springdao/BwUserMapDataDaoImpl.java
+END
+BwBlacklistDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/looters/!svn/ver/2420/Tech/Server/gameCache/src/com/bw/dao/springdao/BwBlacklistDaoImpl.java
+END
+BwUserBankDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/looters/!svn/ver/2468/Tech/Server/gameCache/src/com/bw/dao/springdao/BwUserBankDaoImpl.java
+END
+CGUserCurrencyDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/looters/!svn/ver/199/Tech/Server/gameCache/src/com/bw/dao/springdao/CGUserCurrencyDaoImpl.java
+END
+BwBattleDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/looters/!svn/ver/1967/Tech/Server/gameCache/src/com/bw/dao/springdao/BwBattleDaoImpl.java
+END
+BwUserBankLogDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/looters/!svn/ver/1884/Tech/Server/gameCache/src/com/bw/dao/springdao/BwUserBankLogDaoImpl.java
+END
+BwPlantUserDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/looters/!svn/ver/2832/Tech/Server/gameCache/src/com/bw/dao/springdao/BwPlantUserDaoImpl.java
+END
+BwBattleCharacterPositionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/looters/!svn/ver/768/Tech/Server/gameCache/src/com/bw/dao/springdao/BwBattleCharacterPositionDaoImpl.java
+END
+BwUserDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/looters/!svn/ver/2993/Tech/Server/gameCache/src/com/bw/dao/springdao/BwUserDaoImpl.java
+END
+BwUserSpellDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/looters/!svn/ver/1789/Tech/Server/gameCache/src/com/bw/dao/springdao/BwUserSpellDaoImpl.java
+END
+BwSpellDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/looters/!svn/ver/1599/Tech/Server/gameCache/src/com/bw/dao/springdao/BwSpellDaoImpl.java
+END
+BwLogDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/looters/!svn/ver/2146/Tech/Server/gameCache/src/com/bw/dao/springdao/BwLogDaoImpl.java
+END
+BaseSpringDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/looters/!svn/ver/1061/Tech/Server/gameCache/src/com/bw/dao/springdao/BaseSpringDao.java
+END
+BwCanclePersionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/2401/Tech/Server/gameCache/src/com/bw/dao/springdao/BwCanclePersionDaoImpl.java
+END
+BwUserBattleStatisticsDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/1199/Tech/Server/gameCache/src/com/bw/dao/springdao/BwUserBattleStatisticsDaoImpl.java
+END
+BwClansCharacterRequestDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/768/Tech/Server/gameCache/src/com/bw/dao/springdao/BwClansCharacterRequestDaoImpl.java
+END
+BwMineCollectorAllDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/looters/!svn/ver/2024/Tech/Server/gameCache/src/com/bw/dao/springdao/BwMineCollectorAllDaoImpl.java
+END
+BwClansMemberDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/looters/!svn/ver/768/Tech/Server/gameCache/src/com/bw/dao/springdao/BwClansMemberDaoImpl.java
+END
+BwUserFriendsDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/looters/!svn/ver/807/Tech/Server/gameCache/src/com/bw/dao/springdao/BwUserFriendsDaoImpl.java
+END
+BwUserCharacterDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/1789/Tech/Server/gameCache/src/com/bw/dao/springdao/BwUserCharacterDaoImpl.java
+END
+BwMineCollectorDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/1199/Tech/Server/gameCache/src/com/bw/dao/springdao/BwMineCollectorDaoImpl.java
+END
+CGUserDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/looters/!svn/ver/199/Tech/Server/gameCache/src/com/bw/dao/springdao/CGUserDaoImpl.java
+END

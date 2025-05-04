@@ -1,0 +1,9 @@
+#清单
+maniFestPath=resources/manifest
+#respath
+itemIconResPath=resources/image/item/icon
+itemShowResPath=resources/image/item/show
+avatarResPath=resources/image/item/avatar
+
+#itemManager
+ItemFilePath=resources/item

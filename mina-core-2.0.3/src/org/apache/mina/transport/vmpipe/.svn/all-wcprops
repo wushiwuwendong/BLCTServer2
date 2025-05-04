@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/transport/vmpipe
+END
+DefaultVmPipeSessionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/transport/vmpipe/DefaultVmPipeSessionConfig.java
+END
+VmPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/transport/vmpipe/VmPipe.java
+END
+VmPipeAcceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/transport/vmpipe/VmPipeAcceptor.java
+END
+VmPipeSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/transport/vmpipe/VmPipeSession.java
+END
+VmPipeAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/transport/vmpipe/VmPipeAddress.java
+END
+VmPipeFilterChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/transport/vmpipe/VmPipeFilterChain.java
+END
+VmPipeSessionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/transport/vmpipe/VmPipeSessionConfig.java
+END
+VmPipeConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/transport/vmpipe/VmPipeConnector.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/transport/vmpipe/package.html
+END

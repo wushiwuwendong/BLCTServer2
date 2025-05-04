@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/looters/!svn/ver/2906/Tech/Server/loginServer/src/com/bw/application/manager/user
+END
+IUserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/looters/!svn/ver/2407/Tech/Server/loginServer/src/com/bw/application/manager/user/IUserManager.java
+END
+UserManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/looters/!svn/ver/2906/Tech/Server/loginServer/src/com/bw/application/manager/user/UserManagerImpl.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/looters/!svn/ver/2829/Tech/Server/loginServer/src/com/bw/application/message
+END
+HeartBeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/looters/!svn/ver/237/Tech/Server/loginServer/src/com/bw/application/message/HeartBeat.java
+END
+UserRegisterInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/looters/!svn/ver/1427/Tech/Server/loginServer/src/com/bw/application/message/UserRegisterInfo.java
+END
+UserLoginInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/looters/!svn/ver/2829/Tech/Server/loginServer/src/com/bw/application/message/UserLoginInfo.java
+END
+AreaList.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/looters/!svn/ver/2829/Tech/Server/loginServer/src/com/bw/application/message/AreaList.java
+END
+UUIDsSelfBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/looters/!svn/ver/1427/Tech/Server/loginServer/src/com/bw/application/message/UUIDsSelfBuilder.java
+END
+RegisterChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/237/Tech/Server/loginServer/src/com/bw/application/message/RegisterChannel.java
+END

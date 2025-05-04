@@ -1,0 +1,29 @@
+package message;
+option optimize_for = LITE_RUNTIME; 
+message UserLoginRequest
+{
+	required    string mailAddress = 1;
+	required	string	language = 2;	
+	required	string	version = 3;
+	optional	string	machineNum = 4;
+	optional	int32	instance_id	= 5;
+	optional int32	area_id=6;
+	optional	string	loginId=7;
+	optional	int32	third_party_type=8 [default=0];
+	optional	int32	login_type=9 [default=0];
+	optional	string	password=10;
+}
+
+message UserLoginResponse
+{
+optional sint32	result=1;
+optional string	info=2;//ϵͳ��Ϣ
+optional string	gameServerAddress=3;//��Ϸ��������ַ
+optional uint64	verifyCode=4;//��ʱ��¼��:������ֻ����3Сʱ�����ں�ֻ�����µ�¼��ȡ
+optional string	version=5;//����˰汾��
+optional int32 updateAble=6;//�Ƿ���Ҫ���¿ͻ���0 ����Ҫ���� 1 ����Դ��Ҫ����
+optional string fileServerAddress=7;//�ļ�������IP��ַ
+optional	int32	instance_id=8;//Ҫ��¼����Ϸ������ʵ���
+optional	string	tempMailAddress=9;
+optional int32	area_id=10;
+}

@@ -1,0 +1,17 @@
+package message;
+option optimize_for = LITE_RUNTIME; 
+
+message UserRegisterRequest
+{
+required	string	mailAddress=1;
+required	string	nickName=2;
+required	string	password=3;
+optional	int32	sex=4 [default=0];
+required	string	tempMailAddress=5;
+}
+
+message UserRegisterResponse
+{
+	optional sint32	result = 1;
+	optional string	info = 2;
+}

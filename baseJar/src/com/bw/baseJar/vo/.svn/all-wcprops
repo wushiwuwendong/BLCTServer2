@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/looters/!svn/ver/2870/Tech/Server/baseJar/src/com/bw/baseJar/vo
+END
+BwInitUserVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/looters/!svn/ver/1475/Tech/Server/baseJar/src/com/bw/baseJar/vo/BwInitUserVO.java
+END
+BwGameChannleVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/looters/!svn/ver/2870/Tech/Server/baseJar/src/com/bw/baseJar/vo/BwGameChannleVO.java
+END
+BwBuildingPropertiesLevelVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/looters/!svn/ver/191/Tech/Server/baseJar/src/com/bw/baseJar/vo/BwBuildingPropertiesLevelVO.java
+END
+BwBankGemVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/looters/!svn/ver/1885/Tech/Server/baseJar/src/com/bw/baseJar/vo/BwBankGemVO.java
+END
+BwFileServerVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/looters/!svn/ver/2180/Tech/Server/baseJar/src/com/bw/baseJar/vo/BwFileServerVO.java
+END
+BwAreaVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/looters/!svn/ver/2870/Tech/Server/baseJar/src/com/bw/baseJar/vo/BwAreaVO.java
+END
+NullObjectVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/looters/!svn/ver/1440/Tech/Server/baseJar/src/com/bw/baseJar/vo/NullObjectVO.java
+END
+BwWorkerVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/looters/!svn/ver/2608/Tech/Server/baseJar/src/com/bw/baseJar/vo/BwWorkerVO.java
+END
+BwUserLevelReqVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/looters/!svn/ver/191/Tech/Server/baseJar/src/com/bw/baseJar/vo/BwUserLevelReqVO.java
+END
+BwCharactersVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/looters/!svn/ver/958/Tech/Server/baseJar/src/com/bw/baseJar/vo/BwCharactersVO.java
+END
+BwHallBuildsRelationVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/looters/!svn/ver/641/Tech/Server/baseJar/src/com/bw/baseJar/vo/BwHallBuildsRelationVO.java
+END
+BwExchangeVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/looters/!svn/ver/1921/Tech/Server/baseJar/src/com/bw/baseJar/vo/BwExchangeVO.java
+END
+BwSpellPropertiesLevelVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/looters/!svn/ver/1075/Tech/Server/baseJar/src/com/bw/baseJar/vo/BwSpellPropertiesLevelVO.java
+END
+BwCharactersPropertiesLevelVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/958/Tech/Server/baseJar/src/com/bw/baseJar/vo/BwCharactersPropertiesLevelVO.java
+END
+BwCanclePersionVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/looters/!svn/ver/2304/Tech/Server/baseJar/src/com/bw/baseJar/vo/BwCanclePersionVO.java
+END
+StopServerMessageVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/looters/!svn/ver/1885/Tech/Server/baseJar/src/com/bw/baseJar/vo/StopServerMessageVO.java
+END
+BwTreasureVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/looters/!svn/ver/1895/Tech/Server/baseJar/src/com/bw/baseJar/vo/BwTreasureVO.java
+END
+BwArgsVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/looters/!svn/ver/2835/Tech/Server/baseJar/src/com/bw/baseJar/vo/BwArgsVO.java
+END
+BwBuildingVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/looters/!svn/ver/1714/Tech/Server/baseJar/src/com/bw/baseJar/vo/BwBuildingVO.java
+END
+BwQuickenVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/looters/!svn/ver/1887/Tech/Server/baseJar/src/com/bw/baseJar/vo/BwQuickenVO.java
+END
+BwSpellVOSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/looters/!svn/ver/1302/Tech/Server/baseJar/src/com/bw/baseJar/vo/BwSpellVOSource.java
+END

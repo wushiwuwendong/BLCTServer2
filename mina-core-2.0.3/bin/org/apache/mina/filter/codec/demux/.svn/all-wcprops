@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/demux
+END
+DemuxingProtocolEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/demux/DemuxingProtocolEncoder.java
+END
+MessageDecoderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/demux/MessageDecoderFactory.java
+END
+MessageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/demux/MessageEncoder.java
+END
+DemuxingProtocolCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/demux/DemuxingProtocolCodecFactory.java
+END
+DemuxingProtocolDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/demux/DemuxingProtocolDecoder.java
+END
+MessageDecoderResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/demux/MessageDecoderResult.java
+END
+MessageDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/demux/MessageDecoder.java
+END
+MessageDecoderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/demux/MessageDecoderAdapter.java
+END
+MessageEncoderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/demux/MessageEncoderFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/demux/package.html
+END

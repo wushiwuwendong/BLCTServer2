@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/looters/!svn/ver/2995/Tech/Server/gameServer/src/com/bw/application/manager/impl
+END
+OffLineManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/2688/Tech/Server/gameServer/src/com/bw/application/manager/impl/OffLineManagerImpl.java
+END
+ServerOnlineManage.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/looters/!svn/ver/2877/Tech/Server/gameServer/src/com/bw/application/manager/impl/ServerOnlineManage.java
+END
+BattleManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/looters/!svn/ver/2995/Tech/Server/gameServer/src/com/bw/application/manager/impl/BattleManagerImpl.java
+END
+UserManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/looters/!svn/ver/2975/Tech/Server/gameServer/src/com/bw/application/manager/impl/UserManagerImpl.java
+END
+PVPOrderManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/looters/!svn/ver/2995/Tech/Server/gameServer/src/com/bw/application/manager/impl/PVPOrderManagerImpl.java
+END

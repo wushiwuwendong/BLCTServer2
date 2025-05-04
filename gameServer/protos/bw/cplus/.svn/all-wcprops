@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/looters/!svn/ver/1572/Tech/Server/gameServer/protos/bw/cplus
+END
+UploadBattleResult.proto
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/looters/!svn/ver/1572/Tech/Server/gameServer/protos/bw/cplus/UploadBattleResult.proto
+END
+DownloadBattleInfor.proto
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/looters/!svn/ver/781/Tech/Server/gameServer/protos/bw/cplus/DownloadBattleInfor.proto
+END
+DownloadMapInfor.proto
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/looters/!svn/ver/1067/Tech/Server/gameServer/protos/bw/cplus/DownloadMapInfor.proto
+END
+BattleMatching.proto
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/looters/!svn/ver/1043/Tech/Server/gameServer/protos/bw/cplus/BattleMatching.proto
+END
+ProduceSoldiers.proto
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/looters/!svn/ver/780/Tech/Server/gameServer/protos/bw/cplus/ProduceSoldiers.proto
+END
+RevengeBattle.proto
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/looters/!svn/ver/1043/Tech/Server/gameServer/protos/bw/cplus/RevengeBattle.proto
+END
+UserLogin.proto
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/looters/!svn/ver/222/Tech/Server/gameServer/protos/bw/cplus/UserLogin.proto
+END
+OperateSequence.proto
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/looters/!svn/ver/317/Tech/Server/gameServer/protos/bw/cplus/OperateSequence.proto
+END
+BattleStart.proto
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/looters/!svn/ver/1043/Tech/Server/gameServer/protos/bw/cplus/BattleStart.proto
+END

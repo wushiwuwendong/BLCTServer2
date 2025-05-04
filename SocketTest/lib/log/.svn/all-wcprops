@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/lib/log
+END
+slf4j-log4j12-1.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/lib/log/slf4j-log4j12-1.6.4.jar
+END
+slf4j-api-1.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/lib/log/slf4j-api-1.6.4.jar
+END
+log4j-1.2.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/lib/log/log4j-1.2.15.jar
+END

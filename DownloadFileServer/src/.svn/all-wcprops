@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/looters/!svn/ver/2927/Tech/Server/DownloadFileServer/src
+END
+config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/looters/!svn/ver/1763/Tech/Server/DownloadFileServer/src/config.properties
+END
+action.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/looters/!svn/ver/2927/Tech/Server/DownloadFileServer/src/action.xml
+END
+command.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/looters/!svn/ver/2927/Tech/Server/DownloadFileServer/src/command.xml
+END

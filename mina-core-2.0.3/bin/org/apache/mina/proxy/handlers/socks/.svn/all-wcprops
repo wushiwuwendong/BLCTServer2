@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/handlers/socks
+END
+SocksProxyConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/handlers/socks/SocksProxyConstants.java
+END
+AbstractSocksLogicHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/handlers/socks/AbstractSocksLogicHandler.java
+END
+Socks4LogicHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/handlers/socks/Socks4LogicHandler.java
+END
+Socks5LogicHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/handlers/socks/Socks5LogicHandler.java
+END
+SocksProxyRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/handlers/socks/SocksProxyRequest.java
+END

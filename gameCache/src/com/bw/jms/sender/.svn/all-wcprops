@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/looters/!svn/ver/2158/Tech/Server/gameCache/src/com/bw/jms/sender
+END
+BwLogVOSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/looters/!svn/ver/2146/Tech/Server/gameCache/src/com/bw/jms/sender/BwLogVOSender.java
+END
+BwBarrackVOSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/looters/!svn/ver/1805/Tech/Server/gameCache/src/com/bw/jms/sender/BwBarrackVOSender.java
+END
+BwUserBattleStatisticsVOSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/looters/!svn/ver/1127/Tech/Server/gameCache/src/com/bw/jms/sender/BwUserBattleStatisticsVOSender.java
+END
+SendCurrency.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/looters/!svn/ver/1127/Tech/Server/gameCache/src/com/bw/jms/sender/SendCurrency.java
+END
+BwUserMapDataVOSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/looters/!svn/ver/1127/Tech/Server/gameCache/src/com/bw/jms/sender/BwUserMapDataVOSender.java
+END
+BwMineCollectorAllVOSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/looters/!svn/ver/1127/Tech/Server/gameCache/src/com/bw/jms/sender/BwMineCollectorAllVOSender.java
+END
+BwBattleVOSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/looters/!svn/ver/1127/Tech/Server/gameCache/src/com/bw/jms/sender/BwBattleVOSender.java
+END
+BwUserCharacterVOSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/looters/!svn/ver/1127/Tech/Server/gameCache/src/com/bw/jms/sender/BwUserCharacterVOSender.java
+END
+BwUserSpellVOSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/looters/!svn/ver/1127/Tech/Server/gameCache/src/com/bw/jms/sender/BwUserSpellVOSender.java
+END
+BwUserVOSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/looters/!svn/ver/1142/Tech/Server/gameCache/src/com/bw/jms/sender/BwUserVOSender.java
+END
+BwMineCollectorVOSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/looters/!svn/ver/1127/Tech/Server/gameCache/src/com/bw/jms/sender/BwMineCollectorVOSender.java
+END
+SenderUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/looters/!svn/ver/2158/Tech/Server/gameCache/src/com/bw/jms/sender/SenderUtil.java
+END

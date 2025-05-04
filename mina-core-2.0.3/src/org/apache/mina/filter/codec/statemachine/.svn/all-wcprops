@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/statemachine
+END
+FixedLengthDecodingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/statemachine/FixedLengthDecodingState.java
+END
+DecodingStateMachine.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/statemachine/DecodingStateMachine.java
+END
+SingleByteDecodingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/statemachine/SingleByteDecodingState.java
+END
+ShortIntegerDecodingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/statemachine/ShortIntegerDecodingState.java
+END
+DecodingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/statemachine/DecodingState.java
+END
+ConsumeToTerminatorDecodingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/statemachine/ConsumeToTerminatorDecodingState.java
+END
+ConsumeToCrLfDecodingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/statemachine/ConsumeToCrLfDecodingState.java
+END
+ConsumeToLinearWhitespaceDecodingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/statemachine/ConsumeToLinearWhitespaceDecodingState.java
+END
+CrLfDecodingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/statemachine/CrLfDecodingState.java
+END
+ConsumeToDynamicTerminatorDecodingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/statemachine/ConsumeToDynamicTerminatorDecodingState.java
+END
+SkippingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/statemachine/SkippingState.java
+END
+DecodingStateProtocolDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/statemachine/DecodingStateProtocolDecoder.java
+END
+ConsumeToEndOfSessionDecodingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/statemachine/ConsumeToEndOfSessionDecodingState.java
+END
+IntegerDecodingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/statemachine/IntegerDecodingState.java
+END
+LinearWhitespaceSkippingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/statemachine/LinearWhitespaceSkippingState.java
+END

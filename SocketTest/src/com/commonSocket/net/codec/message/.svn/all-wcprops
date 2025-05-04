@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/codec/message
+END
+MessageParserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/codec/message/MessageParserException.java
+END
+DefaultMessageParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/codec/message/DefaultMessageParser.java
+END
+NotFoundMessageBeanException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/codec/message/NotFoundMessageBeanException.java
+END
+MyDefaultHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/codec/message/MyDefaultHandler.java
+END

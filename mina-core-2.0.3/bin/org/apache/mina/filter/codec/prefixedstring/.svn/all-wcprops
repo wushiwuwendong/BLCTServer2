@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/prefixedstring
+END
+PrefixedStringCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/prefixedstring/PrefixedStringCodecFactory.java
+END
+PrefixedStringDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/prefixedstring/PrefixedStringDecoder.java
+END
+PrefixedStringEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/filter/codec/prefixedstring/PrefixedStringEncoder.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/handlers/http/ntlm
+END
+NTLMUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/handlers/http/ntlm/NTLMUtilities.java
+END
+NTLMConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/handlers/http/ntlm/NTLMConstants.java
+END
+HttpNTLMAuthLogicHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/handlers/http/ntlm/HttpNTLMAuthLogicHandler.java
+END
+NTLMResponses.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/proxy/handlers/http/ntlm/NTLMResponses.java
+END

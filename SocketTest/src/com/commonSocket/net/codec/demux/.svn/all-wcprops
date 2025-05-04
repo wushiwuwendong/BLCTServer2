@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/looters/!svn/ver/2891/Tech/Server/SocketTest/src/com/commonSocket/net/codec/demux
+END
+DefaultMessageDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/codec/demux/DefaultMessageDecoder.java
+END
+DefaultMinaIoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/looters/!svn/ver/2891/Tech/Server/SocketTest/src/com/commonSocket/net/codec/demux/DefaultMinaIoHandler.java
+END
+DefaultMessageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/codec/demux/DefaultMessageEncoder.java
+END
+HttpParserUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/codec/demux/HttpParserUtil.java
+END
+DefaultMessageDecoder.java.old
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/codec/demux/DefaultMessageDecoder.java.old
+END
+DefaultDemuxingProtocolCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/codec/demux/DefaultDemuxingProtocolCodecFactory.java
+END
+DefaultMinaClientIoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/looters/!svn/ver/1741/Tech/Server/SocketTest/src/com/commonSocket/net/codec/demux/DefaultMinaClientIoHandler.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/handler/multiton
+END
+SingleSessionIoHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/handler/multiton/SingleSessionIoHandlerFactory.java
+END
+SingleSessionIoHandlerDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/handler/multiton/SingleSessionIoHandlerDelegate.java
+END
+SingleSessionIoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/handler/multiton/SingleSessionIoHandler.java
+END
+SingleSessionIoHandlerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/handler/multiton/SingleSessionIoHandlerAdapter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/looters/!svn/ver/269/Tech/Server/mina-core-2.0.3/src/org/apache/mina/handler/multiton/package.html
+END
